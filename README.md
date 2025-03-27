@@ -45,7 +45,7 @@ JobConnect Pro is a full-stack job board application designed to revolutionize t
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/jobconnect-pro.git
+git clone https://github.com/SanidhyaMehta/jobconnect-pro.git
 ```
 
 2. Install backend dependencies
@@ -137,9 +137,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📞 Contact
 
-Your Name - youremail@example.com
+sanidhyamehta1617@gmail.com
 
-Project Link: [https://github.com/yourusername/jobconnect-pro](https://github.com/yourusername/jobconnect-pro)
+Project Link: [https://job-board-application-3-leqi.onrender.com](https://github.com/yourusername/jobconnect-pro)
 
 ## 🙏 Acknowledgements
 
