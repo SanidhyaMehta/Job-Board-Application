@@ -88,7 +88,7 @@ const Login = () => {
                                     name="role"
                                     value="student"
                                     checked={input.role === 'student'}
-                                    onChange={changeEventHandler}
+                                    onChange={changeEventHandler }
                                     className="cursor-pointer"
                                 />
                                 <Label htmlFor="r1">Student</Label>
