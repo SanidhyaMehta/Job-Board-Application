@@ -151,4 +151,4 @@ Project Link: [https://github.com/yourusername/jobconnect-pro](https://github.co
 
 ---
 
-**Built with ❤️ by [Your Name]**
+**Built with ❤️ by SANIDHYA MEHTA**
